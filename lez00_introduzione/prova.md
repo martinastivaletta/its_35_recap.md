@@ -16,3 +16,10 @@ Queste sono le liste non ordinate.
     - Latte 200g
     - Farina 300g 
     - Uova 
+
+E questi sono gli elenchi ordinati
+
+1. Acaua
+2. Vino 
+3. Colacao
+    - nesquik
